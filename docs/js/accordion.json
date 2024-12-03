@@ -1,0 +1,30 @@
+{
+  "title": "Frequently Asked Questions",
+  "subtitle": "Here are some of the frequently asked questions",
+  "items": [
+    {
+      "question": "What is roadmap.sh?",
+      "answer": "roadmap.sh is a community effort to create learning paths, guides, project ideas and other similar content to help developers grow in their careers."
+    },
+    {
+      "question": "What are the plans for roadmap.sh?",
+      "answer": "Answer for question 2..."
+    },
+    {
+      "question": "How is roadmap.sh built?",
+      "answer": "Answer for question 3..."
+    },
+    {
+      "question": "Can I use roadmap.sh in my team?",
+      "answer": "Answer for question 4..."
+    },
+    {
+      "question": "How can I create custom roadmaps?",
+      "answer": "Answer for question 5..."
+    },
+    {
+      "question": "Is roadmap.sh really 7th most starred project on GitHub?",
+      "answer": "Answer for question 6..."
+    }
+  ]
+}

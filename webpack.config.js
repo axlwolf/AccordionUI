@@ -56,6 +56,10 @@ const CONFIG = {
         to: "./[name].[ext]",
         toType: "template",
       },
+      {
+        from: "src/js/*.json",
+        to: "js/accordion.json",
+      }
     ]),
     new ImageminPlugin({
       disable: devMode,
